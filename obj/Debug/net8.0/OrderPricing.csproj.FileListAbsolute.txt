@@ -32,3 +32,4 @@ C:\Users\verce\OneDrive\Desktop\OrderPricing\obj\Debug\net8.0\refint\OrderPricin
 C:\Users\verce\OneDrive\Desktop\OrderPricing\obj\Debug\net8.0\OrderPricing.pdb
 C:\Users\verce\OneDrive\Desktop\OrderPricing\obj\Debug\net8.0\OrderPricing.genruntimeconfig.cache
 C:\Users\verce\OneDrive\Desktop\OrderPricing\obj\Debug\net8.0\ref\OrderPricing.dll
+C:\Users\verce\OneDrive\Desktop\OrderPricing\obj\Debug\net8.0\OrderPricing.sourcelink.json
