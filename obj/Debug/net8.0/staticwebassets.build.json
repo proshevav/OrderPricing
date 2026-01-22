@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uDlWYX0xeITMh2QSFMcP7ZL6FRIzUkUkIQUouHEnrPc=",
+  "Source": "OrderPricing",
+  "BasePath": "_content/OrderPricing",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
